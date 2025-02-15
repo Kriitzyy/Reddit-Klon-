@@ -1,0 +1,7 @@
+Javascript filerna kommer innehålla, script.js.
+
+Logik för att lägga till och visa nyhetsartiklar.
+Begränsning av innehållet till 60 tecken i listvyn.
+Funktionalitet för att klicka och visa hela artikeln.
+Hantering av kommentarer och deras visning.
+Eventuell implementering av mörkt läge.

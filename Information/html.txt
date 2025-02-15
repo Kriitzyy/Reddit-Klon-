@@ -1,0 +1,7 @@
+HTML filen (index) kommer att innehålla: 
+
+HTML (index.html)
+
+Grundläggande struktur för sidan.
+Innehåller rubrik, formulär för att lägga till nyhetsartiklar och en lista med inlägg.
+Plats för att visa kommentarer.

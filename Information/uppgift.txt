@@ -1,0 +1,89 @@
+Inlämningsuppgift Frontend kurs (G)
+Lär dig API sakta, men fokuset är uppgiften först
+
+Vecka 1 - Grundstruktur & Enkla inlägg
+
+🎯 Mål: Skapa en grundläggande EchoJS-klon där man kan skriva och visa nyhetsinlägg.
+
+Dag 1-2:
+
+Skapa en enkel HTML-struktur
+
+En rubrik (t.ex. "EchoJS Klon").
+
+En lista där alla nyhetsartiklar visas.
+
+En sidopanel för populära artiklar eller taggar.
+
+Skapa grundläggande CSS för att göra sidan mer läsbar och responsiv.
+
+Dag 3-5:
+
+Använd JavaScript för att:
+
+Låta användaren skapa nya nyhetsartiklar genom ett formulär.
+
+Visa artiklarna i en lista.
+
+Begränsa visningen av innehållet till max 60 tecken.
+
+Låta användaren klicka på en artikel för att läsa hela innehållet.
+
+Spara och hantera tillfälliga artiklar i en array (försvinner vid sidomladdning).
+
+Vecka 2 - Kommentarer & Interaktivitet
+
+🎯 Mål: Lägga till kommentarsfunktion och förbättra interaktionen.
+
+Dag 6-7:
+
+Lägg till en "Kommentera"-knapp under varje artikel.
+
+Skapa en funktion för att:
+
+Låta användaren skriva kommentarer till artiklarna.
+
+Visa kommentarerna under respektive artikel.
+
+Hantera inmatning och visa senaste kommentarer överst.
+
+Dag 8-9:
+
+Testa att alla funktioner fungerar korrekt.
+
+Förbättra designen genom att:
+
+Lägga till mellanrum mellan artiklar och kommentarer.
+
+Välja en enkel men läsbar typsnitt och färgschema.
+
+Implementera en mörkt-läge-knapp.
+
+Vecka 3 - Test & Laddning till GitHub
+
+🎯 Mål: Se till att allt fungerar och ladda upp projektet.
+
+Dag 10-11:
+
+Testa om det finns några buggar och fixa dem.
+
+Rensa upp koden och se till att den är lättläst och välstrukturerad.
+
+Dag 12-14:
+
+Ladda upp projektet till GitHub och säkerställ att allt fungerar.
+
+Dubbelkolla funktionalitet:
+
+Kan man skapa och visa nyhetsartiklar?
+
+Begränsas innehållet till 60 tecken i listan?
+
+Kan man klicka för att se hela innehållet?
+
+Kan man kommentera på artiklar?
+
+Finns det inga kritiska buggar?
+
+🎉 Klart!
+

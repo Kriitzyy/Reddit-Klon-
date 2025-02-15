@@ -1,0 +1,12 @@
+# Ignorera operativsystemspecifika filer
+.DS_Store
+Thumbs.db
+
+# Ignorera IDE- och editor-specifika filer
+.vscode/
+.idea/
+*.log
+
+# Ignorera tillfälliga filer
+node_modules/
+dist/

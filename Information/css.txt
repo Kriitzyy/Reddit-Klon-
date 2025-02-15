@@ -1,0 +1,5 @@
+CSS filen (style.css) kommer att innehålla: 
+
+Stilar för att göra sidan responsiv och lättläst.
+Design för mörkt läge om det implementeras.
+Styling för inlägg och kommentarer.

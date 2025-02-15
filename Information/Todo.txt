@@ -1,0 +1,15 @@
+Att göra: 
+Gör klart huvud mening som Echo js, Javascript news
+Lägg röda färgen horisonellt på skärmen, ca 
+
+Sammanfattning av alla filer: 
+
+index.html	Grundstrukturen för sidan, visar formulär & inlägg
+
+css/style.css	Styling av formulär, inlägg och kommentarer
+
+js/main.js	Kopplar samman all funktionalitet och initierar appen
+
+js/posts.js	Hanterar att skapa, visa och ta bort inlägg
+
+js/comments.js	Hanterar att lägga till kommentarer på inlägg
