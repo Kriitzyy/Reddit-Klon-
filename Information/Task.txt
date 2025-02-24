@@ -17,6 +17,7 @@ En sidopanel för populära artiklar eller taggar.
 
 Skapa grundläggande CSS för att göra sidan mer läsbar och responsiv.
 
+
 Dag 3-5:
 
 Använd JavaScript för att:
@@ -30,6 +31,7 @@ Begränsa visningen av innehållet till max 60 tecken.
 Låta användaren klicka på en artikel för att läsa hela innehållet.
 
 Spara och hantera tillfälliga artiklar i en array (försvinner vid sidomladdning).
+
 
 Vecka 2 - Kommentarer & Interaktivitet
 
@@ -47,6 +49,7 @@ Visa kommentarerna under respektive artikel.
 
 Hantera inmatning och visa senaste kommentarer överst.
 
+
 Dag 8-9:
 
 Testa att alla funktioner fungerar korrekt.
@@ -59,6 +62,7 @@ Välja en enkel men läsbar typsnitt och färgschema.
 
 Implementera en mörkt-läge-knapp.
 
+
 Vecka 3 - Test & Laddning till GitHub
 
 🎯 Mål: Se till att allt fungerar och ladda upp projektet.
@@ -68,6 +72,7 @@ Dag 10-11:
 Testa om det finns några buggar och fixa dem.
 
 Rensa upp koden och se till att den är lättläst och välstrukturerad.
+
 
 Dag 12-14:
 
@@ -84,6 +89,11 @@ Kan man klicka för att se hela innehållet?
 Kan man kommentera på artiklar?
 
 Finns det inga kritiska buggar?
+
+
+Hemsidan som ska repliceras är: 
+Echo js Javascript news
+https://www.echojs.com/
 
 🎉 Klart!
 

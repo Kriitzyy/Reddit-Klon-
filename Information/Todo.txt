@@ -1,6 +1,15 @@
 Att göra: 
-Gör klart huvud mening som Echo js, Javascript news
-Lägg röda färgen horisonellt på skärmen, ca 
+Gör klart sidan "About" 
+Gör klart sidan "Top"
+Gör klart sidan "Latest" 
+Gör klart sidan "Random" 
+
+Gör klart grundstrukuren för sidan: 
+Liknande layout och färgtema
+Nyhetssektion med artikelrubriker
+Sidopanel för populära artiklar
+Formulär för att skicka in nyheter 
+
 
 Sammanfattning av alla filer: 
 
